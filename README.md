@@ -9,7 +9,7 @@
 
 👨‍💻 All of my projects are available at **[My GitHub](https://github.com/EurekaMXZ?tab=repositories)**
 
-📝 I regularly write articles on **[blog.eurekamxz.me/](https://blog.eurekamxz.me/)**
+📝 I regularly write articles on **[blog.eurekamxz.me](https://blog.eurekamxz.me/)**
 
 📫 How to reach me **[eurekamxz@gmail.com](mailto:eurekamxz@gmail.com)**
 
