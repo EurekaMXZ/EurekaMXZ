@@ -1,16 +1,27 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Maxwell (aka. EurekaMXZ)</h1>
+<h3 align="center">A passionate open source developer</h3>
 
-<!--
-**EurekaMXZ/EurekaMXZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##
 
-Here are some ideas to get you started:
+<img align="right" src="https://github-stats.eurekamxz.me/api?username=EurekaMXZ&theme=dark&show_icons=true&locale=en" alt="EurekaMXZ">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I’m currently learning **Linux Kernel** and **Fullstack**
+
+👨‍💻 All of my projects are available at [My GitHub](https://github.com/EurekaMXZ?tab=repositories)
+
+📝 I regularly write articles on [blog.eurekamxz.me/](https://blog.eurekamxz.me/)
+
+📫 How to reach me [eurekamxz@gmail.com](mailto:eurekamxz@gmail.com)
+
+🔑 My GPG Public Key is [`96AB E118 5E37 82C8`](https://keys.openpgp.org/vks/v1/by-fingerprint/456FB35C6402C2A6B36AB5AA96ABE1185E3782C8)
+
+##
+![C](https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white) 
+![C++](https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white) 
+![Rust](https://img.shields.io/badge/Rust-000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=black) 
+![Java](https://img.shields.io/badge/Java-5586A4?style=for-the-badge&logo=coffeescript&logoColor=black) 
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white) 
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) 
+![Linux](https://img.shields.io/badge/Linux-1793D1?style=for-the-badge&logo=linux&logoColor=white)
+![AI](https://img.shields.io/badge/AI-005CED?style=for-the-badge&logo=onnx&logoColor=white)
