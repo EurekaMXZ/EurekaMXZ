@@ -20,13 +20,14 @@
 ![C++](https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white) 
 ![Rust](https://img.shields.io/badge/Rust-000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=black) 
-![Java](https://img.shields.io/badge/Java-5586A4?style=for-the-badge&logo=coffeescript&logoColor=black) 
+![Java](https://img.shields.io/badge/Java-AECBFA?style=for-the-badge&logo=openjdk&logoColor=black) 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white) 
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) 
 ![Linux](https://img.shields.io/badge/Linux-1793D1?style=for-the-badge&logo=linux&logoColor=white)
 ![AI](https://img.shields.io/badge/AI-005CED?style=for-the-badge&logo=onnx&logoColor=white)
+![Blockchain](https://img.shields.io/badge/Blockchain-1A52C2?style=for-the-badge&logo=ethereum&logoColor=white)
 
 ##
 
-![Contributions](https://profile-counter.deno.dev/EurekaMXZ/count.svg)
+![Contributions](https://github.com/EurekaMXZ/EurekaMXZ/raw/output/github-contribution-grid-snake-dark.svg)
+![Visit counter](https://profile-counter.deno.dev/EurekaMXZ/count.svg)
 
