@@ -7,13 +7,13 @@
 
 🌱 I’m currently learning **Linux Kernel** and **Fullstack**
 
-👨‍💻 All of my projects are available at [My GitHub](https://github.com/EurekaMXZ?tab=repositories)
+👨‍💻 All of my projects are available at **[My GitHub](https://github.com/EurekaMXZ?tab=repositories)**
 
-📝 I regularly write articles on [blog.eurekamxz.me/](https://blog.eurekamxz.me/)
+📝 I regularly write articles on **[blog.eurekamxz.me/](https://blog.eurekamxz.me/)**
 
-📫 How to reach me [eurekamxz@gmail.com](mailto:eurekamxz@gmail.com)
+📫 How to reach me **[eurekamxz@gmail.com](mailto:eurekamxz@gmail.com)**
 
-🔑 My GPG Public Key is [`96AB E118 5E37 82C8`](https://keys.openpgp.org/vks/v1/by-fingerprint/456FB35C6402C2A6B36AB5AA96ABE1185E3782C8)
+🔑 My GPG Public Key is **[`96AB E118 5E37 82C8`](https://keys.openpgp.org/vks/v1/by-fingerprint/456FB35C6402C2A6B36AB5AA96ABE1185E3782C8)**
 
 ##
 ![C](https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white) 
@@ -25,3 +25,8 @@
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) 
 ![Linux](https://img.shields.io/badge/Linux-1793D1?style=for-the-badge&logo=linux&logoColor=white)
 ![AI](https://img.shields.io/badge/AI-005CED?style=for-the-badge&logo=onnx&logoColor=white)
+
+##
+
+![Contributions](https://profile-counter.deno.dev/EurekaMXZ/count.svg)
+
