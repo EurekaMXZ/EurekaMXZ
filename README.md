@@ -28,6 +28,8 @@
 
 ##
 
-![Contributions](https://github.com/EurekaMXZ/EurekaMXZ/raw/output/github-contribution-grid-snake-dark.svg)
-![Visit counter](https://profile-counter.deno.dev/EurekaMXZ/count.svg)
+<p align="center"><img src="https://github.com/EurekaMXZ/EurekaMXZ/raw/output/github-contribution-grid-snake-dark.svg" alt="contributions"></p>
+
+##
+<p align="center"><img src="https://profile-counter.deno.dev/EurekaMXZ/count.svg" alt="visit counter"></p>
 
